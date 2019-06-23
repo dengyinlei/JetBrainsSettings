@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Uncaught Exception Handler" />
       <item value="TERMINATED" />
       <item value="TIMED WAITING" />
       <item value="BLOCKED" />
