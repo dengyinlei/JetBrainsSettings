@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TERMINATED" />
+      <item value="TIMED WAITING" />
+      <item value="BLOCKED" />
       <item value="A thread in the waiting state is waiting for another thread to * perform a particular action" />
       <item value="Thread state for a thread blocked waiting for a monitor lock" />
       <item value="A zero status value corresponds to state &quot;NEW&quot;" />
@@ -13,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
